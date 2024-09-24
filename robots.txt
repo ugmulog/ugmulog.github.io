@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ugmulog.github.io/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/app/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/assets/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/css/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/data/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/includes/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/item/sitemap.html.gz
+Sitemap: https://ugmulog.github.io/src/sitemap.html.gz
